@@ -12,9 +12,9 @@ machine learning methods' common assumption: the training and test data are draw
 
 与transfer learning相近的工作是 multi-task learning-uncover the common (latent) features that can benefit each individual task. 但是, transfer learning 与其他工作的不同之处见表格
 
-![tranfer_ML_difference1](D:\typora\Typora\Reading\figures\tranfer_ML_difference1.png)
+![tranfer_ML_difference1](https://github.com/Fujiaoji/Reading/blob/4cdc8f289c34a91247ef78d1bee99bfe4668a2d9/figures/tranfer_ML_difference1.png)
 
-<img src="D:\typora\Typora\Reading\figures\tranfer_ML_difference2.png" alt="tranfer_ML_difference2" style="zoom: 67%;" />
+<img src="https://github.com/Fujiaoji/Reading/blob/4cdc8f289c34a91247ef78d1bee99bfe4668a2d9/figures/tranfer_ML_difference1.png" alt="tranfer_ML_difference2" style="zoom: 67%;" />
 
 ###### 2. Definition
 
