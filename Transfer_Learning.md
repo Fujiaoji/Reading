@@ -14,7 +14,7 @@ machine learning methods' common assumption: the training and test data are draw
 
 ![tranfer_ML_difference1](https://github.com/Fujiaoji/Reading/blob/4cdc8f289c34a91247ef78d1bee99bfe4668a2d9/figures/tranfer_ML_difference1.png)
 
-<img src="https://github.com/Fujiaoji/Reading/blob/4cdc8f289c34a91247ef78d1bee99bfe4668a2d9/figures/tranfer_ML_difference1.png" alt="tranfer_ML_difference2" style="zoom: 67%;" />
+<img src="https://github.com/Fujiaoji/Reading/blob/4cdc8f289c34a91247ef78d1bee99bfe4668a2d9/figures/tranfer_ML_difference2.png" alt="tranfer_ML_difference2" style="zoom: 67%;" />
 
 ###### 2. Definition
 
